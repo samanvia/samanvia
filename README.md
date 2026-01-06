@@ -5,14 +5,14 @@ I'm interested in **data analysis** and using data to find meaningful insights
 
 --
 
-## 🔍 What I’m Working On
+## What I’m Working On
 - Learning Python for data analysis
 - Practicing data cleaning and visualization
 - Building beginner data projects and sharing them here
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 - Python (pandas, matplotlib – learning)
 - SQL (basic queries)
 - Git & GitHub
@@ -20,7 +20,7 @@ I'm interested in **data analysis** and using data to find meaningful insights
 
 ---
 
-## 📁 Projects
+## Projects
 I’ll be uploading projects related to:
 - Exploratory Data Analysis (EDA)
 - Data cleaning & preprocessing
@@ -29,7 +29,7 @@ I’ll be uploading projects related to:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Pandas & NumPy
 - Data visualization techniques
 - Version control with Git
@@ -37,7 +37,7 @@ I’ll be uploading projects related to:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - GitHub: https://github.com/samanvia  
 - LinkedIn: www.linkedin.com/in/samanvi-ayyagari-891891278
 
